@@ -8,8 +8,10 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
+
 **Define Software Engineering:**
 What is software engineering, and how does it differ from traditional programming?
+
 Software engineering refers to the application of engineering principles to the design, development, testing, and maintenance of software.
 Software Engineering differs from traditional programming in the following ways:-
 
@@ -31,6 +33,7 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 **Agile vs. Waterfall Models:**
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 Agile Model :-
 
 - It involves iterative and incremental development, with frequent deliveries of working software.
@@ -46,10 +49,10 @@ Waterfall Model :-
 - Preferred for well-defined, stable projects where requirements are unlikely to change significantly.
 
 **Requirements Engineering:**
-What is requirements engineering?
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
 Requirements engineering is the process of gathering, documenting, maintaining and managing software requirements.
 
-Describe the process and its importance in the software development lifecycle.
 Requirements Engineering Process:-
 
 - Requirements Elicitation which involves gathering user requirements through interviews, surveys, or use case analysis.
@@ -65,6 +68,7 @@ Importance of Requirements Engineering:-
 
 **Software Design Principles:**
 Explain the concept of modularity in software design.
+
 Modularity in software design involves breaking down a system into independent, interchangeable units called modules.
 
 How does it improve maintainability and scalability of software systems?
@@ -88,6 +92,7 @@ Why is testing crucial in software development?
 
 **Version Control Systems:**
 What are version control systems?
+
 A version control system (VCS) is a software tool that tracks changes to files over time, most commonly used in software development.
 Why are they important in software development?
 
@@ -119,6 +124,7 @@ Challenges:-
 
 **Software Maintenance:**
 Define software maintenance and explain the different types of maintenance activities.
+
 Software maintenance is the process of modifying and updating a software system after it has been deployed.
 
 Types of maintenance activities:-
